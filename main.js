@@ -49,5 +49,3 @@ const loadingData = (estado) => {
     }  
 };
 
-
-
